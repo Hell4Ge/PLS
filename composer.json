@@ -1,0 +1,14 @@
+{
+    "name": "protean/pls",
+    "description": "A protean logging system package",
+    "type": "library",
+    "license": "Protean@2018",
+    "authors": [
+        {
+            "name": "Bartłomiej Sobieszek",
+            "email": "bsobieszek@protean.pl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
